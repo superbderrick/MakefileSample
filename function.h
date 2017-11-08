@@ -1,0 +1,3 @@
+
+void first();
+void second();
